@@ -1,0 +1,132 @@
+student pack git hub
+
+git clone  <repo_url> && \ 
+
+
+
+- git clone
+- git cd
+- git status
+- git checkout -b setup (crear nueva rama)
+git checkout setup ir a la rama
+
+
+
+
+NPM
+
+https://github.com/magelac94/web-programming-boilerplate.git
+
+cambiar rama
+
+------------------------------------------------------------------
+linting
+que nos dice si la sintaxis esta bien y se define cual es la regla 
+(formateo y calidad de codigo)
+
+ESLint - reglas de formateo y calidad de codidgo
+
+npm install --save-dave eslink@.^4.19.1 eslint-plugin-import@^2.13.0 @ucudal/eslint-config@latest
+
+
+goo.gl/L3wCRN
+
+
+printter -reglas de formateo
+
+PARA TESTING
+jest - lib de facebook
+
+CONTINUOUS INTEGRATION
+migrar del branch al master
+
+GIT
+git add .      agrega todo
+git status     veo que agrego
+git commit -m "mensaje"     commit
+
+git push -u origin setup
+git log
+
+fin de linea de windows
+.editorconfig  - setear fin de linea
+ gitattribute  
+
+ ejemplos en ucudal 
+
+ leer las 7 reglas para git commit
+ https://chris.beams.io/posts/git-commit/
+
+ ----------------------------------------------------------------------------------
+ 15/08/2018 - HTML y CSS
+  html : Es un lenguaje de marca
+  ccs display
+  div and span
+  div es por bloque
+  span es inline
+selectores
+	class and id: atributos que se pueden usar en todos los atributos html
+	clases varias elementos
+	id solo para uno
+
+	otros selectores:
+	descendant
+	child
+	general sibling
+	adjacent sibling
+
+resumen
+type(element)
+class
+id
+descendant
+child
+general sibling
+adjacent sibling
+
+style collision
+gana el que es mas especifico
+si soy iguales gana la definida mas abajo
+
+type < clase < id
+
+herencia
+los estilos heredan los estilos de padres a hijos
+
+hoja de estilo del user-agent(consumidor de la pagina chrome,firefox e ie)
+los navegadores tienen css propios como para bontones y links, 
+
+overriding default styles-> colocar color en clase a de link
+pseudo-clases: son elementos seleccionados en base al estado (visitado, activado, etc)
+
+BOX MODEL
+css box model
+cada elemento es representado con una caja con cuadro capas
+
+contect
+padding: 
+bordering:      
+	p {
+		border: 3px solid red;
+	}
+	p:hover{
+		border.color: blue;
+		border-left: 5 px;
+	}
+
+margin:
+	margin callapsing
+
+width and height
+---------------------------------------------
+<team>-li-exercise
+git remote -v
+git remote remove origin
+git remote add origin https://github.com/ucudal-wp/<team>-lu1-excersice.git
+git push -u origin master
+
+---------------------------------------------
+
+
+
+
