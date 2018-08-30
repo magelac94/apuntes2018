@@ -127,6 +127,46 @@ git push -u origin master
 
 ---------------------------------------------
 
+22/08
+
+href=#idclase   -- para hacer scroll dentro de la pagina
+
+sectioning elements
+elmentos html5 para el seo 
+
+<header>
+<section> - secciones principales de la pagina
+<aside> - barras que aparecen en los costados (menu por ejemplo)
+
+now app  - para el deploy
+instalar styleLink
+
+-----------------------------------------------
+
+24/08
+flexbox
+---------------------------------------------------
+---------------------------------------------------
+javascript
+ -hace compilacion en tiempo real
+ - no hay metodo principal. se ejecuta de arriba hacia abajo
+
+ TIPOS
+ Number, String, Boolean, Object, Function, Symbol
+
+ string
+ let message = 'hello';
+ message += 'world';
+ message.length;
+ const multiline = 
+
+ variables
+ para declarar: let, const, var
+ let:declara dentro de bloques (variables locales)
+ const: es como final de java, no se puede modificar el puntero pero si se puede modificar la var inicial
+ var: trasiende al bloque no solo en el bloque  # NO USAR VAR
+ 
+
 
 
 
