@@ -165,6 +165,91 @@ javascript
  let:declara dentro de bloques (variables locales)
  const: es como final de java, no se puede modificar el puntero pero si se puede modificar la var inicial
  var: trasiende al bloque no solo en el bloque  # NO USAR VAR
+
+ ----------------------------------------------------
+ -----------------------------------------------------
+
+ DOM
+ -  vamos a utilizar parentNode
+ 
+ ------------------------------------------------
+
+ defer   --> para que el script se ejecute al final de la pagina
+ <script> element
+
+ ------------------------------------------------
+NODE.JS
+plataforma para ejecutar javascript
+
+ingresar a node con comando node
+
+const http = require('http') --> importar libreria
+
+REQUIRE
+forma de referenciar otros scripts
+
+udemy
+js 
+jbidegainandrade@gmail.com
+wp2018
+
+
+punto de montaje para carpeta statics
+
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+
+root
+/api
+	/node.modules
+	index.js
+	package.json
+	package-lock.json
+/web
+	/node.modules
+	index.js
+	package.json
+	package-lock.json
+gitignore
+editorconfig
+
+
+-----------------------------------
+crear el index.js
+
+npm start
+node server.js  --> para ejecutar la app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
